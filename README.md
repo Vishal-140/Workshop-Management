@@ -1,4 +1,4 @@
-# Workshop Registration System
+# Workshop Management System
 
 A Laravel-based application for managing workshops, registrations, materials, attendance, and certificate generation.
 
